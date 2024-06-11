@@ -1,0 +1,307 @@
+.Header{
+  background-color: white;
+  color: black;
+  display: flex;
+  gap: 57px;
+  margin-left: 119px;
+}
+.greater{
+  margin-left: -41px;
+  margin-top: 20px;
+}
+.fanta{
+  /* margin-left: 777px; */
+  /* margin-top: 12px; */
+  /* width: 54px; */
+  /* margin-bottom: 8px; */
+  height: 100%;
+  width: 0%;
+  margin: 0 auto;
+}
+
+.prd{
+  color: black;
+  margin-left: 20p;
+  padding-left: 615px;
+  background-color: light grey;
+  background-color: lightgrey;
+  margin-top: -5px;
+  padding-bottom: 85px;
+  padding-top: 50px;
+  font-size: 35px;
+  font-family: monospace;
+  font-weight: bold;
+}
+.sec-1{
+  display: flex;
+  background-color: lightgrey;
+}
+.sec-1 img{
+  margin-left: 177px;
+  padding-bottom: 22px;
+  width: 500px;
+  margin-top: 25px;
+  border-radius: 25px;
+}
+.sec-1 h3{
+  margin-left: 101px;
+  font-size: 30px;
+  margin-top: 133px;
+  font-family: cursive;
+}
+.sec-1 p{
+  font-family: "Reddit Mono", monospace;
+  padding-left: 98px;
+  letter-spacing: normal;
+  font-size: 18px;
+  
+}
+.sec-1 ul li{
+  list-style-type: none;
+  font-family: "Reddit Mono", monospace;
+  font-weight: 100px;
+  /* letter-spacing: 1px; */
+  /* padding-left: 24px; */
+  padding-top: 15px;
+  font-size: 18px;
+  
+}
+.sec-1 li{
+  margin-left: 57px;
+}
+.sec-1 h2{
+  padding-left: 90px;
+  margin-top: 33px;
+  font-size: 17px;
+  font-weight: bolder;
+}
+.sec-1 .grtr{
+  width: 15px;
+  padding-left: 275px;
+  margin-top: -32px;
+}
+
+.sec-2{
+  display: flex;
+  background-color: lightgray;
+  justify-content: center;
+}
+
+.sec-2 div{
+   /* border: 1px solid black; */
+   width: 40%;
+}
+.sec-2 ul li{
+  list-style: none;
+}
+.sec-2 .left{
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+.sec-2 .left h3{
+  font-size: 30px;
+  font-family: cursive;
+  margin-left: 201px;
+  margin-top: 210px;
+}
+.sec-2 .left p{
+  font-family: "Reddit Mono", monospace;
+  letter-spacing: normal;
+  font-size: 18px;
+  margin-left: 199px;
+
+}
+.sec-2 .left ul{
+  margin-left: 199px; 
+  font-family: "Reddit Mono", monospace;
+  letter-spacing: normal;
+  font-size: 18px;
+  margin-left: 155px;
+  margin-top: 31px;
+
+}
+.sec-2 .left h2{
+  font-size: 17px;
+  font-weight: bolder;
+  margin-left: 193px;
+  margin-top: 29px;
+}
+.sec-2 .grtr{
+  width: 15px;
+
+}
+.buy{
+  background-color: lightgray;
+  padding-top: 103px;
+  margin-top: 0px;
+  padding-left: 645px;
+  padding-bottom: 64px;
+}
+.sec-3{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height:400px ;
+  background-color: lightgray;
+  margin-top:-23px;
+  gap: 41px;
+}
+.right{
+    background-color: white;
+    width: 445px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.sec-2 .right img{
+  height: 349px;
+}
+.img-flip img{
+   margin-top: 30px;
+   border-radius: 20px;
+}
+.sec-3 h1{
+  background-color: white;
+  padding-top: 61px;
+  margin-top: -40px;
+  padding-bottom: 36px;
+  padding-left: 35px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.sec-3 h4{
+  background-color: white;
+  padding-top: -23px;
+  margin-top: -44px;
+  padding-left: 34px;
+  font-size: 19px;
+  font-weight: normal;
+  border-radius: 20px;
+  padding-bottom: 18px;
+}
+.big-basket img{
+  border-radius: 18px;
+  margin-top: 30px;
+}
+.blinkit img{
+  border-radius: 18px;
+  margin-top: 30px;
+}
+
+.follow{
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 113px;
+  margin-left: 182px;
+  margin-right: 216px;
+  padding-bottom: 35px;
+  padding-top: 33px;
+  border-radius: 28px;
+}
+.follow h2{
+  color: white;
+  font-size:30px
+}
+.logo{
+  display: flex;
+  padding-top: 15px;
+  gap: 18px;
+}
+.logo svg{
+  fill: #ffff;
+  width:30px
+}
+.sec-4{
+  background-color: lightgray;
+  padding-top: 16px;
+  padding-bottom: 62px;
+}
+.para1{
+  margin-left: 178px;
+  font-family: "Reddit Mono", monospace;
+
+}
+.para2{
+  margin-left: 178px;
+  font-family: "Reddit Mono", monospace;
+}
+.cocacola{
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 67px;
+  padding-bottom: 49px;
+}
+button{
+  color: white;
+  background-color: black;
+  letter-spacing: 1px;
+  border-radius: 25px;
+  border-style: none;
+  border: 1px solid white;
+  padding-top: 11px;
+  padding-bottom: 14px;
+  margin-top: 5px;
+  margin-left: 214px;
+  margin-bottom: 92px;
+  padding-left: 38px;
+  padding-right: 38px;
+}
+
+.line{
+  background-color: white;
+  width: 100;
+  color: white;
+  width: 70%;
+  height: 1px;
+  margin-top: 109px;
+  display: flex;
+  margin-left: -1385px;
+}
+.texts{
+  display: flex;
+  background-color: black;
+  margin-top: -114px;
+  color: white;
+  justify-content: space-around;
+}
+.logos{
+  fill: white;
+  margin-top:-205px;
+  display: flex;
+  gap: 15px;
+  width: 146px;
+}
+.copyright{
+  background-color: black;
+  color: white;
+  padding-top: 27px;
+  font-size: 20px;
+  font-weight: 200;
+  display: flex;
+  padding-bottom: 46px;
+  justify-content: right;
+  padding-right: 68px;
+}
+.line{
+  height: 1px;
+  background-color: lightgray;
+  width: 70%;
+  height: 6px;
+}
+.line1{
+  width: 70%;
+  height: 1px;
+  background-color: lightgray;
+}
+
+
+
+
+ 
+
+
